@@ -1,0 +1,40 @@
+_repo: The-Surrender-of-CalaisA-Play-in-Three-Acts_36607
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colman, George
+    aliases:
+    - Coleman, George
+    - Colman, George, the younger
+    - Griffinhoof, Arthur
+    birthdate: 1762
+    deathdate: 1836
+    gutenberg_agent_id: '31335'
+    url: http://www.gutenberg.org/2009/agents/31335
+    wikipedia: http://en.wikipedia.org/wiki/George_Colman_the_Younger
+description: ''
+gutenberg_issued: '2011-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Calais (France) -- History -- Siege, 1346-1347 -- Drama'
+title: 'The Surrender of Calais: A Play, in Three Acts'
+url: http://www.gutenberg.org/ebooks/36607
